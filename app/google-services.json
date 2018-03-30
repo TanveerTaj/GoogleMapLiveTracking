@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955942274764",
+    "firebase_url": "https://tracking-e1002.firebaseio.com",
+    "project_id": "tracking-e1002",
+    "storage_bucket": "tracking-e1002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955942274764:android:11e54e73ce83e8b7",
+        "android_client_info": {
+          "package_name": "com.fadsan.tanveer.tanveer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955942274764-q7vdoa26nsbi6n919r6bj2smplerrh5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fadsan.tanveer.tanveer",
+            "certificate_hash": "e391019950bb492c557f4623776bdb11c7573dc1"
+          }
+        },
+        {
+          "client_id": "955942274764-bc0q0egoe56cdaameusjd4g856q8ksjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHE3ZqbIc0QteYtCk2SIx5fbkJGGyE5wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955942274764-bc0q0egoe56cdaameusjd4g856q8ksjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
